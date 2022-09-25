@@ -20,3 +20,12 @@ Qemu is required
 
 Arch Linux
 ```sudo pacman -S qemu-full```
+#Run && Compiled the VM
+
+Install
+
+```make```
+
+Run
+
+```make run```
