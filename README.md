@@ -1,4 +1,4 @@
-# WardOS
+# WardOS !!! DEAD PROJECT !!!
 
 WardOS is an OS with its own Wardag Kernel 
 In pre-alpha (Nonfunctional)  
