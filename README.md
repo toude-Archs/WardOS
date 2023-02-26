@@ -16,7 +16,7 @@ We will try to Embed ```Python``` Libs
 # Required
 
 Os compiled with a ```make run```
-Qemu is required
+Qemu is required for virtualization
 
 Arch Linux
 ```sudo pacman -S qemu-full```
